@@ -1,0 +1,12 @@
+:root {
+	/* Colors */
+	--black--color: #1F1F1F;
+	--grey-color: #E8E8E8;
+	--orange-color: #F95707;
+	--green-color: #105720;
+	--nav-color: #4C4C4C;
+
+	/* Borders */
+	--grey-border: 1px solid var(--grey-color);
+	--orange-border: 1px solid var(--orange-color);
+}
